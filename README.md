@@ -2,9 +2,9 @@
 
 <h4 align="center">Simple Bot for Notifying You When You Were Tagged In A Group<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/83a547c997953a4d75d87.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/7c2bfdec79f87f6dfa5ca.jpg" width="400"></a></p>
 
-[![Profile Views](https://gpvc.arturio.dev/jankarikiduniya/Tag-Informer)](https://github.com/jankarikiduniya/Tag-Informer)
+[![Profile Views](https://gpvc.arturio.dev/jankarikiduniya)](https://github.com/jankarikiduniya/Tag-Informer)
 
 
 <p align="center">
