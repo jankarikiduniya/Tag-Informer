@@ -1,1 +1,1 @@
-worker: python3 -m TagInformer
+worker: python3 -m main
