@@ -37,8 +37,8 @@
             "required": true
         },
         "GROUP_ID": {
-            "description": "Logs Group ID for some Tracking. Example: --1001717283097",
-            "value": "--1001717283097",
+            "description": "Logs Group ID for some Tracking. Example: -1001717283097",
+            "value": "-1001717283097",
             "required": true
         }
     },
