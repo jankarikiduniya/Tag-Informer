@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/83a547c997953a4d75d87.jpg" width="400"></a></p>
 
-[![Profile Views](https://gpvc.arturio.dev/jankarikiduniya)](https://github.com/jankarikiduniya)
+[![Profile Views](https://gpvc.arturio.dev/jankarikiduniya/Tag-Informer)](https://github.com/jankarikiduniya/Tag-Informer)
 
 
 <p align="center">
